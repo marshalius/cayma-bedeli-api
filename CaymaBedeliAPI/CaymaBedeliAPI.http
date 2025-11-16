@@ -1,0 +1,6 @@
+@CaymaBedeliAPI_HostAddress = http://localhost:5102
+
+GET {{CaymaBedeliAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
